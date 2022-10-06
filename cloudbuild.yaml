@@ -1,4 +1,5 @@
 ## step to deploy hello world py app in cloud function
+## yaml file format
 
 steps:
 - name: 'gcr.io/cloud-builders/gcloud'
@@ -8,5 +9,3 @@ steps:
   - hello_world
   - --source=.
   - --trigger-http
-  - --runtime=python37
-  - --allow-unauthenticated
