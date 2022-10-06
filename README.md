@@ -2,7 +2,11 @@
 
 This project demonstrates how to deploy hello world py app in cloud function on GCP.
 
-### Solutions used:
+## Solutions used:
 - Cloud Function
 - Cloud Build
 
+### Used tools/languages
+- yaml
+- python
+- readme document
